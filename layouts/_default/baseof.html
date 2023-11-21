@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{.Site.LanguageCode}}">
 <head>
+	
 {{- partial "analytics.html" . -}}
 {{- partial "site-meta.html" -}}
 {{ $author := (.Params.author | default .Site.Params.author.name) -}}
@@ -24,7 +25,7 @@
 {{- end -}}
 {{- block "head" . -}}{{- end -}}
 {{- if templates.Exists "partials/extra-head.html" -}}{{- partial "extra-head.html" . -}}{{- end -}}</head>
-<body id="page">
+<body id="page" style="background-color: black !important;">
 	{{- block "header" . -}}{{ end -}}
 	{{- block "main" . -}}{{ end -}}
 	{{- block "footer" . -}}{{ end }}
