@@ -6,8 +6,11 @@ draft: false
 featuredImg: ""
 description : 'cerco di spiegare perché oggi mi sento verde'
 tags: 
-  - Demo
-  - Typography
+  - IA
+  - Intelligenza artificiale
+  - colore
+  - amicizia
+  - verde
 scrolltotop : true
 toc : true
 ---
