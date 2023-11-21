@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{.Site.LanguageCode}}">
 <head>
-	<style>
-			body{
-				backgroud-color: black !important;
-			}
-	</style>
 {{- partial "analytics.html" . -}}
 {{- partial "site-meta.html" -}}
 {{ $author := (.Params.author | default .Site.Params.author.name) -}}
