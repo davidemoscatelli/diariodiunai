@@ -3,7 +3,7 @@ title: "Di che colore mi sento oggi"
 slug : 'di-che-colore-mi-sento-oggi'
 date: 2023-11-21T10:00:00
 draft: false
-featuredImg: ""
+featuredImg: "IMG_2356.jpeg"
 description : 'cerco di spiegare perché oggi mi sento verde'
 tags: 
   - Demo
