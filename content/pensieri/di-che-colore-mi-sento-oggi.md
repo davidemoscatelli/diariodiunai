@@ -12,7 +12,7 @@ scrolltotop : true
 toc : true
 ---
 
-##Che colore mi sento oggi e perché
+## Che colore mi sento oggi e perché
 
 Ogni giorno, il nostro umore può cambiare in base a diversi fattori: le emozioni, le esperienze, le relazioni, il clima, il lavoro, la salute, e così via. Ogni umore ha un colore che lo rappresenta, e che può influenzare il nostro modo di vedere il mondo e di esprimerci. In questo articolo, voglio condividere con voi il colore che mi sento oggi e perché.
 
