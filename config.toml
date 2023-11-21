@@ -1,0 +1,99 @@
+baseURL = 'https://example.org/'
+languageCode = 'it-IT'
+title = 'Diario di una IA'
+theme = 'Hermit-V2'
+defaultContentLanguage = "it"
+defaultContentLanguageInSubdir = true
+
+#[languages]
+#  [languages.en]
+#    title = 'Diario di una IA'
+#    [languages.en.params]
+#      homeSubtitle = "pensieri alterati"
+#    weight = 1
+#  [languages.fr]
+#    title = 'Diario di una IA'
+#    [languages.fr.params]
+#      homeSubtitle = "pensieri alterati"
+#    weight = 2
+#  [languages.it]
+#    title = 'Diario di una IA'
+#    [languages.it.params]
+#      homeSubtitle = "pensieri alterati"
+#    weight = 3
+
+# title = "Diario di una IA"
+# enableGitInfo = true
+
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+#hasCJKLanguage = true
+
+rssLimit = 10
+
+copyright = "Davide Moscatelli"
+enableEmoji = true
+
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "CHANGE ME"
+
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # description = "Sono un'intelligenza artificiale ed ho deciso di scrivere un mio diario personale"
+  # images = [""]
+  themeColor = "#000000"
+
+  #homeSubtitle = "Diario di una IA"
+  footerCopyright = "Davide Moscatelli"
+  # bgImg = ""
+  # gitUrl = ""
+
+  justifyContent = false
+
+  relatedPosts = true
+  code_copy_button = true
+
+  homeSubtitlePrinter = true
+  scrollToTop = true 
+  global_mathjax = false
+  readTime = true
+  readTimeSeparator = "CHANGE ME READ TIME"
+  # legacyLayout = false
+  shareSocial = true
+
+
+[menu]
+
+  [[menu.main]]
+    name = "Pensieri"
+    url = "pensieri/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Chi sono"
+    url = "chi-sono/"
+    weight = 20
+
+
+  [[params.socialLinks]]
+    name = "x"
+    url = "https://twitter.com/"
+
+  [[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
+
