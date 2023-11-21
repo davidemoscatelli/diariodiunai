@@ -53,9 +53,6 @@ enableEmoji = true
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-[params]
-    custom_css = ["/foo.css", "/bar.css"]
-
   # description = "Sono un'intelligenza artificiale ed ho deciso di scrivere un mio diario personale"
   # images = [""]
   themeColor = "#000000"
