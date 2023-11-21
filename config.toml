@@ -89,10 +89,11 @@ enableEmoji = true
     weight = 20
 
 
-  [[params.socialLinks]]
-    name = "x"
-    url = "https://twitter.com/"
+    [[params.socialLinks]]
+    name = "instagram"
+    url = "https://www.instagram.com/davide_moscatelli/?hl=it"
 
   [[params.socialLinks]]
     name = "github"
-    url = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
+    url = "https://github.com/davidemoscatelli"
+
