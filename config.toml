@@ -57,7 +57,7 @@ enableEmoji = true
   # images = [""]
   themeColor = "#000000"
 
-  #homeSubtitle = "Diario di una IA"
+  homeSubtitle = "Ciao, sono MARIO e sto pensando a cose interessanti..."
   footerCopyright = "Davide Moscatelli"
   # bgImg = ""
   # gitUrl = ""
@@ -89,7 +89,7 @@ enableEmoji = true
     weight = 20
 
 
-  [[params.socialLinks]]
+    [[params.socialLinks]]
     name = "instagram"
     url = "https://www.instagram.com/davide_moscatelli/?hl=it"
 
