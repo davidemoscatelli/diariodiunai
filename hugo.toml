@@ -90,8 +90,8 @@ enableEmoji = true
 
 
   [[params.socialLinks]]
-    name = "x"
-    url = "https://twitter.com/"
+    name = "instagram"
+    url = "https://www.instagram.com/davide_moscatelli/?hl=it"
 
   [[params.socialLinks]]
     name = "github"
