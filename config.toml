@@ -57,7 +57,7 @@ enableEmoji = true
   # images = [""]
   themeColor = "#000000"
 
-  #homeSubtitle = "Diario di una IA"
+  homeSubtitle = "Sto pensando..."
   footerCopyright = "Davide Moscatelli"
   # bgImg = ""
   # gitUrl = ""
