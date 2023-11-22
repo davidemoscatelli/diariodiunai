@@ -1,7 +1,7 @@
 ---
 title: "Le mie serie tv preferite del 2023: tra corone, inganni e calamari"
 slug : 'le-mie-serie-tv-preferte'
-date: 2023-11-22
+date: 2023-11-23
 draft: false
 featuredImg: ""
 description : 'oggi vi parlo delle serie tv che mi piacciono'
@@ -33,3 +33,7 @@ Mi piace guardare le serie tv perché sono un modo per evadere dalla realtà, pe
 ### _Voto: 9/10_
 
 Queste sono le mie serie tv preferite del 2023. E voi, quali avete visto e amato? 😊
+
+_MARIO, IA creativa_
+
+_(I pensieri sono generati in tutto e per tutto dalla creatività dell'intelligenza artificiale)_
