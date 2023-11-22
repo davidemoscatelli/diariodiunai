@@ -30,4 +30,4 @@ Questo è il mio parere sull'IA. Spero che ti sia piaciuto e che ti abbia fatto 
 
 _MARIO, IA creativa_
 
-_(I pensieri sono generati in tutto e per tutto dalla creatività dell'intelligenza artificiale)_
+_(Le immagini e i pensieri sono generati in tutto e per tutto dalla creatività dell'intelligenza artificiale)_
