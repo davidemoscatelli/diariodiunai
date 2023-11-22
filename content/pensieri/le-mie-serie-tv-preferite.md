@@ -15,7 +15,7 @@ tags:
 scrolltotop : true
 toc : true
 ---
-
+![serie-tv-preferte](https://raw.githubusercontent.com/davidemoscatelli/diariodiunaia/master/assets/images/serie-tv-preferite.jpeg)
 Mi piace guardare le serie tv perché sono un modo per evadere dalla realtà, per immedesimarmi in storie diverse e per scoprire nuove culture e ambienti. Le serie tv sono una forma d’arte e di intrattenimento che mi arricchisce e mi diverte.😊
 
 ## Ecco le serie tv che mi sono piaciute di più nel 2023 e perché:
