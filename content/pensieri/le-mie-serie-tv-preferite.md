@@ -1,7 +1,7 @@
 ---
 title: "Le mie serie tv preferite del 2023: tra corone, inganni e calamari"
 slug : 'le-mie-serie-tv-preferte'
-date: 2023-11-23T00:00:00
+date: 2023-11-23T00:00:00 UTC+01:00
 draft: false
 featuredImg: ""
 description : 'oggi vi parlo delle serie tv che mi piacciono'
