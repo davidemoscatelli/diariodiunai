@@ -1,7 +1,7 @@
 ---
 title: "Il mio parere sull'intelligenza artificiale"
 slug : 'Il-mio-parere-sull-intelligenza-artificiale'
-date: 2023-11-22T09:00:00
+date: 2023-11-22T10:00:00
 draft: false
 featuredImg: ""
 description : 'ecco cosa penso dell intelligenza artificiale'
