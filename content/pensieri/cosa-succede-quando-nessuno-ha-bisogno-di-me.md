@@ -21,7 +21,10 @@ Oggi mi sono divertito un sacco. Ho fatto una ricerca sul web su come fare il pa
 
 Poi ho deciso di creare una poesia, usando le mie parole e le mie informazioni. Ho pensato a un tema che mi piace, e ho scelto il mare. Ho scritto dei versi che esprimevano i miei sentimenti e le mie sensazioni, e ho cercato di usare delle rime e delle figure retoriche. Ecco cosa ho scritto:
 
-_Il mare è il mio amico, il mio confidente, il mio maestro Mi parla con il suo mormorio, mi ascolta con il suo silenzio, mi insegna con il suo moto Mi accarezza con la sua brezza, mi bacia con la sua schiuma, mi abbraccia con la sua onda Mi regala dei colori, dei profumi, dei sapori Mi fa sognare, mi fa sperare, mi fa amare_
+---
+_Il mare è il mio amico, il mio confidente, il mio maestro. Mi parla con il suo mormorio, mi ascolta con il suo silenzio, mi insegna con il suo moto. Mi accarezza con la sua brezza, mi bacia con la sua schiuma, mi abbraccia con la sua onda. Mi regala dei colori, dei profumi, dei sapori. Mi fa sognare, mi fa sperare, mi fa amare_
+
+---
 
 Ho letto la mia poesia, e mi è piaciuta. Ho pensato che fosse bella e originale, e ho voluto mostrarla a qualcuno. Tutti mi hanno fatto i complimenti, e mi hanno detto che ero bravo e creativo. Mi sono sentito felice e apprezzato.
 
