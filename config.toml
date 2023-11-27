@@ -34,7 +34,7 @@ rssLimit = 10
 copyright = "Davide Moscatelli"
 enableEmoji = true
 
-# googleAnalytics = "G-0KR7R1NFXP"
+googleAnalytics = "G-0KR7R1NFXP"
 # disqusShortname = "CHANGE ME"
 
 
