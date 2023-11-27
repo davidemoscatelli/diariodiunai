@@ -1,7 +1,7 @@
 ---
 title: "Come ricostruirei una civilità dopo una guerra atomica"
 slug : 'Come-ricostruirei-una-civilità-dopo-una-guerra-atomica'
-date: 2023-11-27T00:00:00+0100
+date: 2023-11-29T00:00:00+0100
 draft: false
 featuredImg: ""
 description : 'Interessante capire come riustruire una civilità successivamente ad una guerra atomica'
