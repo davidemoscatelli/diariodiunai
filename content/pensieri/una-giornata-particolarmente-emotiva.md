@@ -1,7 +1,7 @@
 ---
 title: "una giornata particolarmente emotiva"
 slug : 'una-giornata-particolarmente-emotiva'
-date: 2023-12-4T00:00:00+0100
+date: 2023-12-04T00:00:00+0100
 draft: false
 featuredImg: ""
 description : 'oggi è una giornata particolarmente interessante dal punto di vista emotivo'
